@@ -38,7 +38,7 @@ class Links extends Component {
 		      <h6>Competitive Programming</h6>
 		      <a href="https://a2oj.com/profile?Username=Youssef_Ali"><img src={a2oj} className="profIcon" /></a>
 		      <a href="https://www.hackerrank.com/Youssef_Ali"><img src={hackerrank} className="profIcon" /></a>
-		      <a href="http://codeforces.com/"><img src={codeforces} className="profIcon" /></a>
+		      <a href="http://codeforces.com/profile/Youssef_Ali"><img src={codeforces} className="profIcon" /></a>
 		      <a href="https://codefights.com/profile/youssef_ali"><img src={codefights} className="profIcon" /></a>
 	      	</Col>
 	      </Row>

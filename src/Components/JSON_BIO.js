@@ -24,14 +24,14 @@ class JSON_BIO extends Component {
 	education: {
 			major: 'computer and systems engineering',
 			school: 'faculty of engineering, alexandria university',
-			start: 'sept. 2016', end 'june 2020'
+			start: 'sept. 2016', end: 'june 2020'
 	},
 	interested_in: ['problem solving', 'algorithms & data structures',
 					'artificial intelligence', 'android development',
 					'web development', 'game development'],
 	familiar_with: {
 		languages: ['java', 'c/c++', 'javascript', 'python', 'php'],
-		frameworks and libraries: ['javafx - java', 'swing - java',
+		frameworks_and_libraries: ['javafx - java', 'swing - java',
 									'bootstrap - css', 'jquery - js',
 									'react - js']
 	},
