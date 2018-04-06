@@ -23,34 +23,34 @@ class Links extends Component {
       	  <Row>
       	  	<Col sm={2} className="linksCol">
 		      <h6>Social Media</h6>
-		      <a href="https://www.facebook.com/yossefalihassan"><img src={facebook} className="profIcon" /></a>
-		      <a href="https://twitter.com/youssefali6212"><img src={twitter} className="profIcon" /></a>
+		      <a href="https://www.facebook.com/yossefalihassan" target="_blank"><img src={facebook} className="profIcon" /></a>
+		      <a href="https://twitter.com/youssefali6212" target="_blank"><img src={twitter} className="profIcon" /></a>
 	      	</Col>
 	      	<Col sm={2} className="linksCol">
 		      <h6>Job Profiles</h6>
-		      <a href="https://www.linkedin.com/in/youssef-ali-343443134/"><img src={linkedIn} className="profIcon" /></a>
-		      <a href="https://angel.co/youssef_ali"><img src={angellist} className="profIcon" /></a>
+		      <a href="https://www.linkedin.com/in/youssef-ali-343443134/" target="_blank"><img src={linkedIn} className="profIcon" /></a>
+		      <a href="https://angel.co/youssef_ali" target="_blank"><img src={angellist} className="profIcon" /></a>
 	      	</Col>
 	      </Row>
 
 	      <Row>
 	      	<Col sm={4} className="linksCol">
 		      <h6>Competitive Programming</h6>
-		      <a href="https://a2oj.com/profile?Username=Youssef_Ali"><img src={a2oj} className="profIcon" /></a>
-		      <a href="https://www.hackerrank.com/Youssef_Ali"><img src={hackerrank} className="profIcon" /></a>
-		      <a href="http://codeforces.com/profile/Youssef_Ali"><img src={codeforces} className="profIcon" /></a>
-		      <a href="https://codefights.com/profile/youssef_ali"><img src={codefights} className="profIcon" /></a>
+		      <a href="https://a2oj.com/profile?Username=Youssef_Ali" target="_blank"><img src={a2oj} className="profIcon" /></a>
+		      <a href="https://www.hackerrank.com/Youssef_Ali" target="_blank"><img src={hackerrank} className="profIcon" /></a>
+		      <a href="http://codeforces.com/profile/Youssef_Ali" target="_blank"><img src={codeforces} className="profIcon" /></a>
+		      <a href="https://codefights.com/profile/youssef_ali" target="_blank"><img src={codefights} className="profIcon" /></a>
 	      	</Col>
 	      </Row>
 
 	      <Row>
 	      	<Col sm={2} className="linksCol">
 		      <h6>Open Source</h6>
-		      <a href="https://github.com/youssefAli11997"><img src={github} className="profIcon" /></a>
+		      <a href="https://github.com/youssefAli11997" target="_blank"><img src={github} className="profIcon" /></a>
 		    </Col>
 		    <Col sm={2} className="linksCol"> 
 		      <h6>Email</h6>
-		      <a href="mailto:youssefali6212@gmail.com"><img src={gmail} className="profIcon" /></a>
+		      <a href="mailto:youssefali6212@gmail.com" target="_blank"><img src={gmail} className="profIcon" /></a>
       	  	</Col>
       	  </Row>
 
