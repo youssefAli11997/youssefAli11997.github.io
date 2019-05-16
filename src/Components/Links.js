@@ -28,7 +28,7 @@ class Links extends Component {
 	      	</Col>
 	      	<Col sm={2} className="linksCol">
 		      <h6>Job Profiles</h6>
-		      <a href="https://www.linkedin.com/in/youssef-ali-343443134/" target="_blank"><img src={linkedIn} className="profIcon" /></a>
+		      <a href="https://www.linkedin.com/in/youssef-ali97/" target="_blank"><img src={linkedIn} className="profIcon" /></a>
 		      <a href="https://angel.co/youssef_ali" target="_blank"><img src={angellist} className="profIcon" /></a>
 	      	</Col>
 	      </Row>
